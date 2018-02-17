@@ -1,0 +1,19 @@
+{
+  "name": "nested-json-keys-compare",
+  "version": "1.0.0",
+  "description": "NPM package to compare nested json schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apurva165/nested-json-keys-compare.git"
+  },
+  "author": "Apurva kulkarni <apurva165@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apurva165/nested-json-keys-compare/issues"
+  },
+  "homepage": "https://github.com/apurva165/nested-json-keys-compare#readme"
+}
